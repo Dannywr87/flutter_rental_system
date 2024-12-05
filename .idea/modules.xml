@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/flutter_rental_system.iml" filepath="$PROJECT_DIR$/flutter_rental_system.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/flutter_rental_system_android.iml" filepath="$PROJECT_DIR$/android/flutter_rental_system_android.iml" />
     </modules>
   </component>
 </project>

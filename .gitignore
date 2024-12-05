@@ -28,3 +28,22 @@ doc/api/
 google-services.json
 build/
 pubspec.lock
+# Firebase configuration files
+google-services.json
+ios/Runner/GoogleService-Info.plist
+
+# Build artifacts
+build/
+.dart_tool/
+.packages
+pubspec.lock
+
+# Flutter-specific
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
